@@ -15,7 +15,7 @@
 /imdg/latest-dev/  /hazelcast/5.0-snapshot/:splat 200!
 
 # Redirect latest-dev management-center alias to the latest version
-/management-center/latest-dev/*  /management-center/4.2021.06-snapshot/:splat 200!
+/management-center/latest-dev/*  /management-center/5.0-snapshot/:splat 200!
 /management-center/latest-dev/  /management-center/4.2021.06-snapshot/index.html 200!
 
 # Redirect latest-dev hazelcast alias to the latest-dev version
